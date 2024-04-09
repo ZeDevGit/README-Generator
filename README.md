@@ -19,7 +19,6 @@
 4. Use the command "$node index.js" to run the generator.
 5. Enter each of the requested prompt information and the your file will be generated.
 ## Usage
- Example:
  https://github.com/ZeDevGit/README-Generator/assets/42353819/46282f18-1983-483c-8646-99f6e9ac1fe1
 ## Contributing
  Testing can be done through running the index.js file and submitting feedback to the Github page.
